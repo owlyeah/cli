@@ -1,5 +1,5 @@
 {
-  "name": "@owlyeah/cli",
+  "name": "create-owlyeah",
   "version": "0.0.1",
   "description": "cli for owlyeah ui",
   "scripts": {
