@@ -1,0 +1,15 @@
+{
+  "recommendations": [
+    "ZixuanChen.vitest-explorer",
+    "EditorConfig.EditorConfig",
+    "dbaeumer.vscode-eslint",
+    "stylelint.vscode-stylelint",
+    "esbenp.prettier-vscode",
+    "bradlc.vscode-tailwindcss",
+    "IWANABETHATGUY.path-alias",
+    "humao.rest-client",
+    "ZixuanChen.vitest-explorer",
+    "lokalise.i18n-ally",
+    "Vue.vscode-typescript-vue-plugin"
+  ]
+}

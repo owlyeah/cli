@@ -33,10 +33,17 @@
     "@commitlint/config-conventional": "^17.4.4",
     "@commitlint/cz-commitlint": "^17.5.0",
     "@commitlint/format": "^17.4.4",
+    "@rushstack/eslint-patch": "^1.2.0",
+    "@trivago/prettier-plugin-sort-imports": "^4.1.1",
     "esbuild": "^0.17.17",
+    "eslint": "^8.38.0",
+    "eslint-config-prettier": "^8.8.0",
+    "eslint-config-typescript": "^3.0.0",
+    "eslint-plugin-vue": "^9.11.0",
     "husky": "^8.0.3",
     "inquirer": "8.2.5",
     "lint-staged": "^13.2.1",
+    "prettier": "^2.8.7",
     "typescript": "^5.0.4"
   }
 }
