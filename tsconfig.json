@@ -1,9 +1,9 @@
 {
-  "extends": "@vue/tsconfig/tsconfig.node.json",
+  "extends": "./node_modules/@vue/tsconfig/tsconfig.node.json",
   "include": ["index.ts"],
-  "exclude": ["template", "node_modules"],
+  "exclude": ["template"],
   "compilerOptions": {
-    "module": "NodeNext",
+    "module": "ESNext",
     "strict": false,
     "resolveJsonModule": true
   }

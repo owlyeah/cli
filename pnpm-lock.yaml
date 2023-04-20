@@ -25,6 +25,9 @@ devDependencies:
   '@vue/tsconfig':
     specifier: ^0.1.3
     version: 0.1.3(@types/node@18.15.11)
+  consola:
+    specifier: ^3.1.0
+    version: 3.1.0
   esbuild:
     specifier: ^0.17.17
     version: 0.17.17
@@ -1214,6 +1217,10 @@ packages:
 
   /concat-map@0.0.1:
     resolution: {integrity: sha1-2Klr13/Wjfd5OnMDajug1UBdR3s=}
+    dev: true
+
+  /consola@3.1.0:
+    resolution: {integrity: sha512-rrrJE6rP0qzl/Srg+C9x/AE5Kxfux7reVm1Wh0wCjuXvih6DqZgqDZe8auTD28fzJ9TF0mHlSDrPpWlujQRo1Q==}
     dev: true
 
   /conventional-changelog-angular@5.0.13:

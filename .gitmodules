@@ -1,0 +1,3 @@
+[submodule "templates"]
+  path = templates
+  url = https://github.com/owlyeah/create-owlyeah-templates.git
