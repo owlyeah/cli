@@ -5,7 +5,7 @@ import 'zx/globals'
 
 $.verbose = false
 
-const __dirname = url.fileURLToPath(new URL('.', import.meta.url))
+const __dirname = url.fileURLToPath(new url.URL('.', import.meta.url))
 const playgroundDir = path.resolve(__dirname, '../templates/')
 const bin = path.posix.relative('../templates/', '../outfile.cjs')
 

@@ -7,8 +7,8 @@ import * as url from 'node:url'
 
 const projectName = await consola.prompt('Project name', {
   type: 'text',
-  placeholder: 'my-project',
-  default: 'my-project',
+  placeholder: 'owlyeah-project',
+  default: 'owlyeah-project',
 })
 const __dirname = url.fileURLToPath(new URL('.', import.meta.url))
 const templateRoot = path.resolve(__dirname, 'template')
